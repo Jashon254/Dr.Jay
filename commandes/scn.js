@@ -36,19 +36,19 @@ const date = moment().format('DD/MM/YYYY');
   let infoMsg =  `
  *THE GIVEN LINK TAKES YOU TO THE SESSION SITE*
  
-https://trex-md-session-generator-4f0646dea31d.herokuapp.com/ 
+https://dr.jay-md-session-generator-4f0646dea31d.herokuapp.com/ 
 
 
  ╭───────────────────❒
- │ TREX-MD❒⁠⁠⁠⁠
- │ TREX-MD❒⁠⁠
+ │ DRJAY-MD❒⁠⁠⁠⁠
+ │ DRJAY-MD❒⁠⁠
  ⁠⁠⁠⁠╰───────────────────❒
  
  
  `;
     
 let menuMsg = `
-> Made by : BERA_TECH
+> Made by : DRJAY_TECH
 `;
 
    var lien =(mybotpic)();
@@ -65,7 +65,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *TREX-MD*, déveloper BERA_TECH" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *DRJAY-MD*, déveloper DRJAY_TECH" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
