@@ -8,13 +8,13 @@
 <p align="center">  
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝗧𝗥𝗘𝗫-𝗠𝗗" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=DRJAY-𝗠𝗗" alt="Typing SVG"/></a>
 
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VanNRQm6BIEfrDHM9V0F">
     <img alt="wasi" height="400" src="https://i.ibb.co/4jBhn13/Socialthumb.jpg">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-   <h1 align="center">TREX-MD</h1>
+   <h1 align="center">DRJAY-MD</h1>
   </a>
     <div align="center">
   <img src="https://spogit.vercel.app/api?theme=dark&rainbow=true&scan=true" alt="Widget with the current Spotify song"  />
