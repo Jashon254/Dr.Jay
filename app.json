@@ -1,9 +1,9 @@
 {
-"name":"Trex-Md",
+"name":"DRJAY-MDl",
   "description":"𝑻𝒉𝒆 𝑭𝒂𝒔𝒕𝒆𝒔𝒕 𝑩𝒐𝒕",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/b8b94202ee501c05bfef2.jpg",
-  "repository":"https://github.com/berabotsmd/TREX-MD",
+  "repository":"https://github.com/Jashon254/DRJAY-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"TREX-MD",
+      "value":"DRJAY-MD",
       "required":false
 
     } ,
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "BERA"
+    "value": "DR.JAY"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254743982206"
+    "value": "254748142187"
   },
     "WARN_COUNT":
   {
