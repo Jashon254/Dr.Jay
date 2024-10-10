@@ -53,7 +53,7 @@
 - <a href="https://dashboard.heroku.com/new?button-url=https://github.com/Jashon254/Dr.Jay&template=https://github.com/Jashon254/Dr.Jay"><img title="Deploy On HEROKU" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=Tesla" width="220" height="38.45"/></a></p>
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='<a href="https://imgbb.com/"><img src="https://i.ibb.co/Tm0vFpd/12fff154bf12577363c08fb594f27c54.png" alt="12fff154bf12577363c08fb594f27c54" border="0" /></a>'
 </p>
    
 ##
