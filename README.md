@@ -27,9 +27,9 @@
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <a href="https://github.com/Jashon254?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Jashon254?label=Followers&style=social"></a>
-<a href="https://github.com/Jashon254/Dr.Jay/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Jashon254/DRJAY-MD?&style=social"></a>
-<a href="https://github.com/Jashon254/Dr.Jay/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Jashon254/DRJAY-MD?style=social"></a>
-<a href="[https://github.com/Jashon254/DRJAY-MD](https://github.com/Jashon254/Dr.Jay)/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Jashon254/Dr.Jay?label=Watching&style=social"></a>
+<a href="https://github.com/Jashon254/Dr.Jay/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Jashon254/Dr.Jay?&style=social"></a>
+<a href="https://github.com/Jashon254/Dr.Jay/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Jashon254/Dr.Jay?style=social"></a>
+<a href="https://github.com/Jashon254/Dr.Jay/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Jashon254/Dr.Jay?label=Watching&style=social"></a>
 </p>></a>                     
 
    <h1 align="center"                  
@@ -43,14 +43,14 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </a></p>
 - <br>
-<a href='https://TREX-MD-session-scanners-b8a59bb9726a.herokuapp.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Get-Session_ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+<a href='https://trex-session-scanners-b8a59bb9726a.herokuapp.com' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Get-Session_ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
 - 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 </p>
 
-- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/Jashon254/Dr.Jay&template=https://github.com/Jashon254/Dr.Jayhhh"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=Tesla" width="220" height="38.45"/></a></p>
+- <a href="https://dashboard.heroku.com/new?button-url=https://github.com/Jashon254/Dr.Jay&template=https://github.com/Jashon254/Dr.Jay"><img title="Deploy On HEROKU" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=Tesla" width="220" height="38.45"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
