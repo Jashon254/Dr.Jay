@@ -854,14 +854,14 @@ ${metadata.desc}\n\n> DRJAY BY DRJAY TECH .`;
                 await activateCrons();
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
-                let cmsg = `TREX-MD IS ONLINE  ⏳\n${readmore}
+                let cmsg = `DRJAY-MD IS ONLINE  ⏳\n${readmore}
     
     𝗣𝗿𝗲𝗳𝗶𝘅 : [ ${prefixe} ]
     𝗠𝗼𝗱𝗲 :${md} mode
     𝗣𝗹𝘂𝗴𝗶𝗻𝘀 : 245
     𝗥𝗮𝗺 : 𝟲𝟴/𝟭𝟯𝟮 𝗚𝗕
     𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : 𝗟𝗶𝗻𝘂𝘅
-    𝗖𝗿𝗲𝗮𝘁𝗼𝗿 : BERA 
+    𝗖𝗿𝗲𝗮𝘁𝗼𝗿 : DR.JAY 
 
 > Thank you for deploying DRJAY MD `;
                     
