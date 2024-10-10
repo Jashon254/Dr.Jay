@@ -22,7 +22,7 @@
  
 </p>
 <p align="center">
-<a href="https://github.com/Jashon254"><img title="Author" src="https://img.shields.io/badge/berabotsmd-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VanNRQm6BIEfrDHM9V0F"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254748142187"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Jashon254"><img title="Author" src="https://img.shields.io/badge/Jashon254 -black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VanNRQm6BIEfrDHM9V0F"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254748142187"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
@@ -122,6 +122,6 @@ Contributions to DRJAY-MD are welcome! If you have ideas for new features, impro
 The DRJAY-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the *DRJAY-MD*  to enhance your Whatsapp more enjoyable
-☣𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 DRJAY-MD 
+☣𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 DRJAY-MD
 .
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
