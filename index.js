@@ -80,7 +80,7 @@ setTimeout(() => {
         const sockOptions = {
             version,
             logger: pino({ level: "silent" }),
-            browser: ['TREX-MD', "safari", "1.0.0"],
+            browser: ['DRJAY-MD', "safari", "1.0.0"],
             printQRInTerminal: true,
             fireInitQueries: false,
             shouldSyncHistoryMessage: true,
@@ -154,10 +154,10 @@ setTimeout(() => {
             var membreGroupe = verifGroupe ? ms.key.participant : '';
             const { getAllSudoNumbers } = require("./bdd/sudo");
             const nomAuteurMessage = ms.pushName;
-            const dj = '254743982206';
-            const dj2 = '254743982206';
-            const dj3 = "254787527753";
-            const luffy = '254787527753';
+            const dj = '254748142187';
+            const dj2 = '254748142187';
+            const dj3 = "2547952715033";
+            const luffy = '254795271503';
             const sudo = await getAllSudoNumbers();
             const superUserNumbers = [servBot, dj, dj2, dj3, luffy, conf.NUMERO_OWNER].map((s) => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
             const allAllowedNumbers = superUserNumbers.concat(sudo);
@@ -165,7 +165,7 @@ setTimeout(() => {
             
             var dev = [dj, dj2,dj3,luffy].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\t [][]...{TREX MD}...[][]");
+            console.log("\t [][]...{DRJAY MD}...[][]");
             console.log("=========== New message ===========");
             if (verifGroupe) {
                 console.log("message sent from : " + nomGroupe);
@@ -429,7 +429,7 @@ function mybotpic() {
                                    // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
                                     const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
                                     var sticker = new Sticker(gifLink, {
-                                        pack: 'TREX MD',
+                                        pack: 'DR.JAY MD',
                                         author: conf.OWNER_NAME,
                                         type: StickerTypes.FULL,
                                         categories: ['🤩', '🎉'],
@@ -527,7 +527,7 @@ function mybotpic() {
            // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
             const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
             var sticker = new Sticker(gifLink, {
-                pack: 'TREX-MD',
+                pack: 'DRJAY-MD',
                 author: conf.OWNER_NAME,
                 type: StickerTypes.FULL,
                 categories: ['🤩', '🎉'],
@@ -685,7 +685,7 @@ zk.ev.on('group-participants.update', async (group) => {
 ╚════◇◇◇═════╝
 ◇ *Descriptioon*   ◇
 
-${metadata.desc}\n\n> TREX-MD BY BERA TECH .`;
+${metadata.desc}\n\n> DRJAY BY DRJAY TECH .`;
 
             zk.sendMessage(group.id, { image: { url: ppgroup }, caption: msg, mentions: membres });
         } else if (group.action == 'remove' && (await recupevents(group.id, "goodbye") == 'on')) {
@@ -813,16 +813,16 @@ ${metadata.desc}\n\n> TREX-MD BY BERA TECH .`;
         zk.ev.on("connection.update", async (con) => {
             const { lastDisconnect, connection } = con;
             if (connection === "connecting") {
-                console.log("Bugatti is connecting in your account...");
+                console.log("DRJAY is connecting in your account...");
             }
             else if (connection === 'open') {
-                console.log("TREX MD connected successfully☺️");
+                console.log("DRJAY MD connected successfully☺️");
                 console.log("--");
                 await (0, baileys_1.delay)(200);
                 console.log("------");
                 await (0, baileys_1.delay)(300);
                 console.log("------------------/-----");
-                console.log("TREX MD by BERA TECH is installing cmds😇\n\n");
+                console.log("DRJAY MD by DRJAY TECH is installing cmds😇\n\n");
                 //chargement des commandes 
                 console.log("chargement des commandes ...\n");
                 fs.readdirSync(__dirname + "/commandes").forEach((fichier) => {
@@ -849,7 +849,7 @@ ${metadata.desc}\n\n> TREX-MD BY BERA TECH .`;
                 else {
                     md = "undefined";
                 }
-                console.log("Bugatti successfully connected✅");
+                console.log("DRJAY successfully connected✅");
 
                 await activateCrons();
                 
@@ -863,7 +863,7 @@ ${metadata.desc}\n\n> TREX-MD BY BERA TECH .`;
     𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : 𝗟𝗶𝗻𝘂𝘅
     𝗖𝗿𝗲𝗮𝘁𝗼𝗿 : BERA 
 
-> Thank you for deploying TREX MD `;
+> Thank you for deploying DRJAY MD `;
                     
                 await zk.sendMessage( zk.user.id, { text: cmsg });
                 }
@@ -878,7 +878,7 @@ ${metadata.desc}\n\n> TREX-MD BY BERA TECH .`;
                     main();
                 }
                 else if (raisonDeconnexion === baileys_1.DisconnectReason.connectionLost) {
-                    console.log('connection error😞 ,, TREX MD trying to reconnect... ');
+                    console.log('connection error😞 ,, DRJAY MD trying to reconnect... ');
                     main();
                 }
                 else if (raisonDeconnexion === baileys_1.DisconnectReason?.connectionReplaced) {
