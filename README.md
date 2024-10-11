@@ -11,7 +11,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=DRJAY-𝗠𝗗" alt="Typing SVG"/></a>
 
 <p align="center">  
-  <a href="https://whatsapp.com/channel/0029VanNRQm6BIEfrDHM9V0F">
+  <a href="https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q">
     <img alt="wasi" height="400" src="https://i.ibb.co/SmxwhHB/a141108824adfa8ae0dbe2cd9bb6b316.png">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    <h1 align="center">DRJAY-MD</h1>
@@ -22,7 +22,7 @@
  
 </p>
 <p align="center">
-<a href="https://github.com/Jashon254"><img title="Author" src="https://img.shields.io/badge/Jashon254 -black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VanNRQm6BIEfrDHM9V0F"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254748142187"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Jashon254"><img title="Author" src="https://img.shields.io/badge/Jashon254 -black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254748142187"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
@@ -43,7 +43,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </a></p>
 - <br>
-<a href='https://trex-session-scanners-b8a59bb9726a.herokuapp.com' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Get-Session_ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+<a href='https://session-generator-c0at.onrender.com' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Get-Session_ID-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
 - 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -61,7 +61,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## Join my channel for updates
 <a href="https://whatsapp.com/channel/0029VanNRQm6BIEfrDHM9V0F" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
