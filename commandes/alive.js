@@ -73,7 +73,7 @@ else {
     } else {
         if(!superUser) { repondre("DRJAY 𝐌𝐝") ; return};
 
-      await   repondre("*https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x");
+      await   repondre("*https://whatsapp.com/channel/0029VanNRQm6BIEfrDHM9V0F");
          repondre("DRJAY 𝐍𝐞𝐯𝐞𝐫 𝐒𝐥𝐞𝐞𝐩. 𝐌𝐚𝐲𝐛𝐞 𝐲𝐨𝐮😅.")
      }
  } else {
