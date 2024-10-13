@@ -34,27 +34,27 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   *TREX-MD IMPORTANT INFO* 
+   *DRJAY IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
 > https://github.com/betingrich/Bugatti
-> https://github.com/berabotsmd/Trex-Md
+> https://github.com/Jashon254/DRJAY-Md
 
 *WHATSAPP CHANNEL*
 > https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x
->https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q
+>https://whatsapp.com/channel/0029VanNRQm6BIEfrDHM9V0F
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://wa.me/254740007567?text=Hi+Marisel+I+Need+Help
->https://wa.me/254743982206?text=Hi+Bruce+I+Need+Help
+> https://wa.me/254795271503?text=Hi+DRJAY+I+Need+Help
+>https://wa.me/254795271503?text=Hi+DRJAY+I+Need+Help
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV* : *𝐁𝐞𝐫𝐚*
+│❒⁠⁠⁠⁠ *DEV* : *DRJAY*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     𝐓𝐑𝐄𝐗 𝐌𝐃 𝐋𝐀𝐁
+     DRJAY 𝐌𝐃 𝐋𝐀𝐁
 
 ❒────────────────────❒`;
 
@@ -62,7 +62,7 @@ let menuMsg = `
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *DrJaymd*, déveloper DRJAY Tech" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -72,7 +72,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *DrJayMd*, déveloper DrJay Tech" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
