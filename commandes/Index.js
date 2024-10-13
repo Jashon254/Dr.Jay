@@ -91,7 +91,7 @@ const {
 let {
   reagir
 } = require(__dirname + "/framework/app");
-var session = conf.session.replace(/TREX-MD;;;=>/g, '');
+var session = conf.session.replace(/DRJAY-MD;;;=>/g, '');
 const prefixe = conf.PREFIXE;
 async function authentification() {
   try {
@@ -306,7 +306,7 @@ setTimeout(() => {
             'image': {
               'url': "./media/deleted-message.jpg"
             },
-            'caption': "        Anti-delete-message by TREX-MD\n Message from @" + _0x1f220a.key.participant.split('@')[0x0] + '',
+            'caption': "        Anti-delete-message by DRJAY \n Message from @" + _0x1f220a.key.participant.split('@')[0x0] + '',
             'mentions': [_0x1f220a.key.participant]
           }).then(() => {
             _0x41157d.sendMessage(_0x57354f, {
@@ -450,7 +450,7 @@ setTimeout(() => {
             'participant': _0x9e4074
           };
           var _0x394f96 = "lien detected, \n";
-          var _0x5e05f3 = new Sticker("https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif", {
+          var _0x5e05f3 = new Sticker("https://raw.githubusercontent.com/Jashon254/DRJAY-MD/main/media/remover.gif", {
             'pack': "Zoou-MD",
             'author': conf.OWNER_NAME,
             'type': StickerTypes.FULL,
