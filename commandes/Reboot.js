@@ -14,7 +14,7 @@ const{repondre,ms,dev,superUser}=com;
 
   if(!superUser)
   {
-    return repondre("𝘛𝘩𝘪𝘴 𝘤𝘰𝘮𝘮𝘢𝘯𝘥 𝘪𝘴 𝘰𝘯𝘭𝘺 𝘧𝘰𝘳 𝘉𝘦𝘳𝘢 ");
+    return repondre("𝘛𝘩𝘪𝘴 𝘤𝘰𝘮𝘮𝘢𝘯𝘥 𝘪𝘴 𝘰𝘯𝘭𝘺 𝘧𝘰𝘳 Dr.Jay ");
   }
 
   const {exec}=require("child_process")
