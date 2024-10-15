@@ -1,9 +1,9 @@
 {
-  "name":"ENZO MD",
-  "description":"Best whatsapp bot developed by mr anyway + Baraka Bega",
+  "name":"DRJAY MD",
+  "description":"Best whatsapp bot developed by Drjay",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://i.ibb.co/dKwNM0X/1680856058-816-x-1456.png",
-  "repository":"https://github.com/ENZOTECH254/ENZO_NEW-MD",
+  "logo":"https://i.ibb.co/ZG2Vgdd/images-11.jpg",
+  "repository":"https://github.com/Jashon254/Dr.Jay",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"ENZO MD",
+      "value":"DRJAY MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://i.ibb.co/dKwNM0X/1680856058-816-x-1456.png",
+      "value":"https://i.ibb.co/ZG2Vgdd/images-11.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "ENZO MD"
+    "value": ""
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254111385747,254784115308"
+    "value": "254743982206"
   },
     "WARN_COUNT":
   {
