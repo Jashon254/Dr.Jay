@@ -9,8 +9,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/SIMON32883/MR-ANYWAY-MD  /root/ToshTech
-WORKDIR /root/toshtech/
+RUN git clone https://github.com/Jashon254/Dr.Jay/root/beratech
+WORKDIR /root/bera/
 
 
 COPY package.json .
