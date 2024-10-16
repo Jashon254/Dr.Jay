@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *BOOMER-WABOT*`
+ *DRJAY-WABOT*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
@@ -71,9 +71,9 @@ else {
 }
 
     } else {
-        if(!superUser) { repondre("BOOMER is alive just like you 😂") ; return};
+        if(!superUser) { repondre("DR JAY MD is alive just like you 😂") ; return};
 
-      await   repondre("sasa ata we tu ushaiskia BOOMER MD imelala😂😂we  fanya kitu ya maana");
+      await   repondre("sasa ata we tu ushaiskia DRJAY MD imelala😂😂we  fanya kitu ya maana");
          repondre("nmeenda😂 :)")
      }
  } else {
