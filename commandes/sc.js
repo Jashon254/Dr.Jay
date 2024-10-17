@@ -34,23 +34,23 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-      *BOOMER INFORMATION* 
+      *DRJAY-MD INFORMATION* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/Nyamache77/Boomer-
+> https://github.com/Jashon254/DRJAY-MD 
 
 *WHATSAPP GROUP*
-> https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q
+> https://whatsapp.com/channel/0029VanNRQm6BIEfrDHM9V0F
 ⁠
 ╭───────────────────❒
 │💎⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❤️⁠⁠⁠⁠ *DEV1* : *THADDY*
-│📸⁠⁠⁠⁠ *DEV2* : *BERA TECH*
+│❤️⁠⁠⁠⁠ *DEV1* : *DRJAY*
+│📸⁠⁠⁠⁠ *DEV2* : *DRJAY TECH*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *𝗕𝗢𝗢𝗠𝗘𝗥*
+     *DRJAY-MD*
 
 ❒────────────────────❒`;
 
@@ -123,21 +123,21 @@ const date = moment().format('DD/MM/YYYY');
    *BMW MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/ibrahimaitech/BMW-MD
+> https://github.com/Jashon254/DRJAY-MD
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y
+> https://whatsapp.com/channel/0029VanNRQm6BIEfrDHM9V0F
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO⁠
+> https://github.com/Jashon254/DRJAY MD-INFO⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV* : *Ibrahim Adams*
+│❒⁠⁠⁠⁠ *DEV* : *DrJay*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     𝑰𝑩𝑹𝑨𝑯𝑰𝑴 𝑨𝑫𝑨𝑴𝑺 𝑺𝑪𝑰𝑬𝑵𝑪𝑬
+     DRJAY-MD 𝑺𝑪𝑰𝑬𝑵𝑪𝑬
 
 ❒────────────────────❒`;
 
@@ -145,7 +145,7 @@ let menuMsg = `
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *DrJaymd*, déveloper DrJay Tech" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -155,7 +155,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *DrJaymd*, déveloper DrJay Tech" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
