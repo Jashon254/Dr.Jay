@@ -88,7 +88,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' Holla🥴, *BOOMER BOT* is alive just like you gee. ')
+repondre(' Holla🥴, *DRJAY-MD BOT* is alive just like you gee. ')
 
 }
     });
