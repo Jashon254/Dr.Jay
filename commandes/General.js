@@ -55,8 +55,8 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "💎" }, async (dest, zk
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "BERA-TECH", numero: "254743982206" },
-      { nom: "᚛THADDY᚜", numero: "254716060176" },
+      { nom: "DRJAY-TECH", numero: "254748142187" },
+      { nom: "᚛JAY᚜", numero: "254795271503" },
       
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
@@ -95,7 +95,7 @@ else {
 zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("THANK YOU FOR CHOOSING BOOMER, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q] \n\n ☉YOUTUBE LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://www.youtube.com/@_BERA_TECH] \n\n\n*Created By THADDY") 
-  await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING BOOMER,MAKE SURE YOU FOLLOW THESE LINKS. `},{quoted :ms})
+  repondre("THANK YOU FOR CHOOSING DRJAY-MD, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VanNRQm6BIEfrDHM9V0F] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://https://whatsapp.com/channel/0029VanNRQm6BIEfrDHM9V0F] \n\n ☉YOUTUBE LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://www.youtube.com/@_JASHON254] \n\n\n*Created By DRJAY") 
+  await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING DRJAY-MD,MAKE SURE YOU FOLLOW THESE LINKS. `},{quoted :ms})
 
 })
