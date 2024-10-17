@@ -15,7 +15,7 @@ zokou({
   const { ms, repondre, arg } = commandeOptions;
      
   if (!arg[0]) {
-    repondre("wrong!!! Ie. _Play got me good by Bera tech ft juice wrld._");
+    repondre("wrong!!! Ie. _Play got me good by Dr.Jay tech ft juice wrld._");
     return;
   }
 
