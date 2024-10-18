@@ -809,7 +809,7 @@ zk.ev.on('group-participants.update', async (group) => {
                 console.log("ℹ️ DrJay Md is connecting...");
             }
             else if (connection === 'open') {
-                console.log("✅ Anyway Md Connected to WhatsApp! ☺️");
+                console.log("✅ DrJay Md Connected to WhatsApp! ☺️");
                 console.log("--");
                 await (0, baileys_1.delay)(200);
                 console.log("------");
