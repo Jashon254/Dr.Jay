@@ -34,23 +34,23 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   *BOOMER IMPORTANT INFO* 
+   *DRJAY-MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/Nyamache77/Boomer-
+> https://github.com/Jashon254/DRJAY-MD 
 
 *WHATSAPP GROUP*
-> https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q
+> https://whatsapp.com/channel/0029VanNRQm6BIEfrDHM9V0F
 ⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV1* : *THADDY*
-│❒⁠⁠⁠⁠ *DEV2* : *BERA TECH*
+│❒⁠⁠⁠⁠ *DEV1* : *DRJAY*
+│❒⁠⁠⁠⁠ *DEV2* : *DRJAY TECH*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *BOOMER*
+     *DRJAY-MD*
 
 ❒────────────────────❒`;
 
