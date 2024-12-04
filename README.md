@@ -14,7 +14,7 @@
   <a href="https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q">
     <img alt="wasi" height="400" src="https://i.ibb.co/SmxwhHB/a141108824adfa8ae0dbe2cd9bb6b316.png">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-   <h1 align="center">DRJAY-MD</h1>
+   <h1 align="center">JAY-MD</h1>
   </a>
     <div align="center">
   <img src="https://spogit.vercel.app/api?theme=dark&rainbow=true&scan=true" alt="Widget with the current Spotify song"  />
